@@ -1,0 +1,17 @@
+{
+  "name": "@fastapi-app/core",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "sst bind vitest",
+    "typecheck": "tsc -noEmit"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.3",
+    "@types/node": "^24.0.3",
+    "sst": "^3.17.5"
+  },
+  "dependencies": {
+    "zod": "^3.25.67"
+  }
+}
