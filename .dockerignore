@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+.vscode/
+.env
+node_modules/
+sst.config.ts
